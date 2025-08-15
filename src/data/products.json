@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 750,
+    "category": "electronics",
+    "rating": 4.2,
+    "image": "/src/assets/images/Wireless Bluetooth Headphones.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 950,
+    "category": "electronics",
+    "rating": 4.5,
+    "image": "/src/assets/images/Smartphone.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 850,
+    "category": "electronics",
+    "rating": 4.8,
+    "image": "/src/assets/images/Laptop.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 650,
+    "category": "electronics",
+    "rating": 3.9,
+    "image": "/src/assets/images/Tablet.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "price": 800,
+    "category": "electronics",
+    "rating": 4.1,
+    "image": "/src/assets/images/Smart Watch.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Gloves",
+    "price": 550,
+    "category": "exercise",
+    "rating": 4.3,
+    "image": "/src/assets/images/Gloves.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Dumbbells Set",
+    "price": 700,
+    "category": "exercise",
+    "rating": 4.6,
+    "image": "/src/assets/images/Dumbbells Set.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Resistance Bands",
+    "price": 600,
+    "category": "exercise",
+    "rating": 3.7,
+    "image": "/src/assets/images/Resistance Bands.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Jump Rope",
+    "price": 500,
+    "category": "exercise",
+    "rating": 4.0,
+    "image": "/src/assets/images/Jump Rope.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Foam Roller",
+    "price": 650,
+    "category": "exercise",
+    "rating": 4.4,
+    "image": "/src/assets/images/Foam Roller.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Organic Apples",
+    "price": 750,
+    "category": "food",
+    "rating": 4.7,
+    "image": "/src/assets/images/Organic Apples.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Fresh Milk",
+    "price": 600,
+    "category": "food",
+    "rating": 4.2,
+    "image": "/src/assets/images/Fresh Milk.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Whole Grain Bread",
+    "price": 550,
+    "category": "food",
+    "rating": 3.8,
+    "image": "/src/assets/images/Whole Grain Bread.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Organic Eggs",
+    "price": 800,
+    "category": "food",
+    "rating": 4.5,
+    "image": "/src/assets/images/Organic Eggs.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Fresh Vegetables",
+    "price": 700,
+    "category": "food",
+    "rating": 4.1,
+    "image": "/src/assets/images/Fresh Vegetables.jpeg"
+  }
+] 
